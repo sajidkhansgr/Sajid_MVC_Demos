@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: UniversityProject, Configuration: Debug Any CPU ------
+1>  UniversityProject -> C:\Users\Sajid\Documents\GitHub\Mobile_Apps_sajid\UniversityProject\UniversityProject\bin\UniversityProject.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
